@@ -1,10 +1,3 @@
-//
-//  CGImage+FaceCrop.swift
-//
-//  Created by Kirill Kudaev on 9/9/19.
-//  Copyright © 2019 Ancestry. All rights reserved.
-//
-
 import Foundation
 import Vision
 
